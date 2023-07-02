@@ -4,7 +4,7 @@
 - 🌱 Estudando Front-End e Data Science
 - ⚡ Já criei uma estação meteorológica e um irrigador automático com Arduino.
 - 😄 Pronomes: ele/dele
-- 📫 Contate-me no emanil: athilasaraujo@gmail.com
+- 📫 Contate-me no email: athilasaraujo@gmail.com
 
 ##
 
