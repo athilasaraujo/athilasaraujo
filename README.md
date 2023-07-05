@@ -1,7 +1,7 @@
 ### Olá, eu sou o Athilas 👋
 
 - 😊 Sou novo aqui!
-- 🌱 Estudando Front-End e Data Science
+- 🌱 Estudando para me tornar um programador Full Stack.
 - ⚡ Já criei uma estação meteorológica e um irrigador automático com Arduino.
 - 😄 Pronomes: ele/dele
 - 📫 Contate-me no email: athilasaraujo@gmail.com
